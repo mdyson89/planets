@@ -8,3 +8,4 @@ partner line
 this is new line for conflict
 hi conflict
 
+conflict 2
